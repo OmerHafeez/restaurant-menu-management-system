@@ -1,0 +1,23 @@
+You have to develop a restaurant menu of your own choice you have to add at least 20
+items to the menu. The user can at most only order 6 items in the menu. You have to
+ask the user for his name and contact number. Then you have to ask for items he
+wants to purchase. Then you have to ask whether he wants more items. You also have
+to ask about the quantity of each item they buy. At the very end, you have to provide
+the bill for all the items they have bought and the total cost of them as well as add GST
+of 12% on the total.
+Bill will look like this:
+
+____________________
+|   Name Qty Total   |
+|........ ..... ....... .........|
+|........ ..... ....... .........|
+|........ ..... ....... .........|
+|........ ..... ....... .........|
+|........ ..... ....... .........|
+|........ ..... .................|
+| |
+| Total Qty ...............|
+| Total Amount ........|
+| GST .......................|
+| Total .....................|
+__________________
